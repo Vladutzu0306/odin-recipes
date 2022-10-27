@@ -1,3 +1,23 @@
 body {
-    background-color: rgb(179, 204, 146);
-  }
+  background-color: rgb(179, 204, 146);
+}
+
+li {
+  color: rgb(53, 53, 53);
+}
+
+p {
+  color: rgb(53, 53, 53);
+}
+
+.Home {
+  font-size: 24px;
+  font-weight: bold;
+  color: rgb(53, 53, 53);
+}
+
+h1,
+h2,
+h3 {
+  color: rgb(26, 122, 55);
+}
